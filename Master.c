@@ -1,6 +1,6 @@
 /*
 NOTICE: Version without sensors
-Date: Jan 12th, 2018
+Modified by James Howitt
 */
 
 
